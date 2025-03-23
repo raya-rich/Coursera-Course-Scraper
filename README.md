@@ -17,7 +17,7 @@ Clone the repository:
 ```sh
 git clone https://github.com/raya-rich/Coursera-Course-Scraper.git
 cd Coursera-Course-Scraper
-
+```
 Install dependencies:
 ```sh
 pip install selenium  
