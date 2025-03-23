@@ -22,14 +22,14 @@ Install dependencies:
 ```sh
 pip install selenium  
 pip install webdriver-manager
-- or
-download and place chromedriver.exe in the project folder.
+```
+Or download and place chromedriver.exe in the project folder.
 
 ## ▶️ Usage
 Run the script:
 ```sh
 python scrape.py  
-
+```
 ## 📂 Output
 - Course Name
 - Institute Name
