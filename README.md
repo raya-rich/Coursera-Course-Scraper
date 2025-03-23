@@ -17,3 +17,25 @@ Clone the repository:
 ```sh
 git clone https://github.com/raya-rich/Coursera-Course-Scraper.git
 cd Coursera-Course-Scraper
+
+Install dependencies:
+```sh
+pip install selenium  
+pip install webdriver-manager
+- or
+download and place chromedriver.exe in the project folder.
+
+## ▶️ Usage
+Run the script:
+```sh
+python scrape.py  
+
+## 📂 Output
+- Course Name
+- Institute Name
+- Rating
+- Reviews
+- Skills
+- Level
+- Course Type
+- Duration
