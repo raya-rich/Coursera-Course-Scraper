@@ -1,5 +1,5 @@
 # 🚀 Coursera Course Scraper (Selenium + Python)
-A Python scraper using Selenium to extract courses from Coursera and save them to a CSV file.
+This project is a Python script using Selenium to automate Coursera, scrape course details, and save them to a CSV file.
 
 ## 🌟 Features
 - Searches for **Machine Learning** courses (default, but can be modified).
